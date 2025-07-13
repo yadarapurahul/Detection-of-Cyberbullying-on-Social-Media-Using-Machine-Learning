@@ -1,0 +1,8 @@
+Django>=3.0,<4.0
+openpyxl
+nltk
+scikit-learn
+pandas
+wordcloud
+xlwt
+PyMySQL

@@ -1,0 +1,18 @@
+DEARNN: A Hybrid Deep Learning Approach for Cyberbullying Detection in Twitter Social Media Platform
+
+IEEE Access and Machine Learning,Volume:10,Issue Date:March.11,2022.
+
+Cyber-bullying, tweet classication, Dolphin Echolocation algorithm, Elman recurrent
+neural networks, short text topic modeling, cyberbullying detection, social media.
+
+DEARNN
+
+dearnn
+
+
+Cyberbullying_Detection_Type
+
+Tweet_Message
+Prediction
+
+
